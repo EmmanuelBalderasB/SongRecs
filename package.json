@@ -1,0 +1,15 @@
+{
+  "name": "songrecs",
+  "version": "1.0.0",
+  "description": "Codecademy Mixed Messages Project ================================= My mixed messages app, I included a little bit more code than the project originally demanded. It includes a testing suite using mocha and chai, and separation of concerns.",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "mocha './test/app.spec.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
